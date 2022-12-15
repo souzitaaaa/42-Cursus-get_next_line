@@ -1,5 +1,5 @@
 # 42-Cursus-get_next_line
-This are my files during my time making the project "get_next_line" on 42
+These are my files during my time making the project "get_next_line" in 42Porto
 
 Keep up the good work and good luck :)
 
