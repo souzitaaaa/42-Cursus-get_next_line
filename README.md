@@ -1,9 +1,7 @@
 # 42-Cursus-get_next_line
-This is my files during my time making the project "get_next_line" on 42
+This are my files during my time making the project "get_next_line" on 42
 
 Keep up the good work and good luck :)
-
-PS: I know i tested my code with the name of an anime girl, I'mma a simp deal with it
 
 ## Get_next_file
 
